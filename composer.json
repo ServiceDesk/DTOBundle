@@ -1,0 +1,17 @@
+{
+    "name": "SD/DTOBundle",
+    "version": "1.0.0",
+    "description": "Test",
+    "keywords": ["symfony"],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SD"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.4",
+        "symfony/framework-bundle": "2.*"
+    }
+}
