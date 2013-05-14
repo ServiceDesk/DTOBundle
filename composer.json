@@ -1,5 +1,5 @@
 {
-    "name": "ServiceDesk/DTOBundle",
+    "name": "servicedesk/dto-bundle",
     "version": "1.0.0",
     "description": "Test",
     "keywords": ["symfony"],
