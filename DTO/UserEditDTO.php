@@ -24,6 +24,7 @@ use Symfony\Component\Validator\Mapping\ClassMetadata;
 
 class UserEditDTO extends BaseUserDTO
 {
+    private $testProperty;
     /**
      * @var boolean
      */
